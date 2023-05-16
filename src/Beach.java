@@ -4,4 +4,6 @@ public class Beach {
     //water
     // people
      // having fun
+
+    // public static void (String args[]);
 }
